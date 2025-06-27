@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.1",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -55,7 +55,7 @@
     "displayName": "GitLab Publish",
     "description": "Trigger GitLab pipeline in one click !"
   },
-  "name": "strapi-plugin-gitlab-publish",
+  "name": "strapi-plugin-gitlab-publish-custom-url",
   "description": "Trigger GitLab pipeline in one click !",
   "license": "MIT",
   "repository": {
