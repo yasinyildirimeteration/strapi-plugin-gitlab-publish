@@ -10,7 +10,7 @@ const controller = ({ strapi }) => ({
       'Content-Type': 'application/json',
     };
 
-    const url = `https://gitlab.com/api/v4/projects/${project_id}/ref/${project_branch}/trigger/pipeline?token=${project_pipeline_token}`;
+    const url = `https://gitlab.eteration.com/api/v4/projects/${project_id}/ref/${project_branch}/trigger/pipeline?token=${project_pipeline_token}`;
 
     const { status } = await axios.post(url, {}, { headers });
     const success = status === 201;
