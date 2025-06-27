@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -60,11 +60,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Striffly/strapi-plugin-gitlab-publish.git"
+    "url": "git+https://github.com/yasinyildirimeteration/strapi-plugin-gitlab-publish"
   },
   "bugs": {
-    "url": "https://github.com/Striffly/strapi-plugin-gitlab-publish/issues"
+    "url": "https://github.com/yasinyildirimeteration/strapi-plugin-gitlab-publish/issues"
   },
-  "homepage": "https://github.com/Striffly/strapi-plugin-gitlab-publish#readme",
+  "homepage": "https://github.com/yasinyildirimeteration/strapi-plugin-gitlab-publish#readme",
   "author": "Clément Gayot <contact@clement-gayot.fr>"
 }
